@@ -1,7 +1,7 @@
-//First go to the path in cmd & run the following command 
- -m streamlit run app.py  // for the first time they will ask to put your email 
+#First go to the path in cmd & run the following command 
+ -m streamlit run app.py  # for the first time they will ask to put your email 
 
-   //output like this 
+   #output like this 
       Welcome to Streamlit!
 
       If you’d like to receive helpful onboarding emails, news, offers, promotions,
